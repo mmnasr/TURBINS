@@ -20,7 +20,7 @@ TURBINS has been utilized in more than 15 journal (peer-reviewed) publications o
 - suitable [MPI package](https://www.open-mpi.org/)
 
 **Visualization:**
-- Any software supporting VTK format, e.g. [ParaView](www.paraview.org) (or [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit))
+- Any software supporting VTK format, e.g. [ParaView](https://www.paraview.org) (or [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit))
 - Rendering of some of the shown movies in the [gallery](/gallery) sectio is performed by ParaView and Python. 
 
 Note: Since this code is a research code, the main.c file, Makefile, and input files are not uploaded here. If you are interested in using this code, please contact me personally via mmnasr@gmail.com
